@@ -1,0 +1,53 @@
+index,city,place,rating,type,user_id
+0,Marrakech,Jardin Majorelle,4.5,Gardens,101
+1,Marrakech,Koutoubia Mosque,4.4,Mosque,102
+2,Marrakech,Bahia Palace,4.3,Palace,103
+3,Marrakech,Menara Gardens,4.2,Gardens,104
+4,Marrakech,Saadian Tombs,4.1,Tombs,105
+5,Marrakech,Moroccan Cuisine,4.5,Restaurant,106
+6,Marrakech,Marrakech Museum,4.0,Museum,107
+7,Marrakech,Majorelle Art Gallery,4.2,Art Gallery,108
+8,Marrakech,Djemaa El Fna Square,4.4,Square,109
+9,Fes,Bou Inania Madrasa,4.5,Madrasa,201
+10,Fes,The Royal Palace,4.3,Palace,202
+11,Fes,Chouara Tannery,4.4,Tannery,203
+12,Fes,Borj Nord,4.0,Fortress,204
+13,Fes,Fes el Bali (Old Town),4.2,Historic District,205
+14,Fes,Nejjarine Museum of Wooden Arts and Crafts,4.5,Museum,206
+15,Fes,Batha Museum,4.1,Museum,207
+16,Fes,Andalusian Gardens,4.3,Gardens,208
+17,Fes,Moulay Idriss Mausoleum,4.4,Mausoleum,209
+18,Casablanca,Hassan II Mosque,4.6,Mosque,301
+19,Casablanca,Old Medina,4.0,Historic District,302
+20,Casablanca,The Corniche,4.2,Beach,303
+21,Casablanca,La Sqala,4.1,Restaurant,304
+22,Casablanca,King's Palace,4.5,Palace,305
+23,Casablanca,Royal Golf Anfa Mohammedia,4.2,Golf Course,306
+24,Casablanca,Moroccan Jewish Museum,4.3,Museum,307
+25,Casablanca,Parc de la Ligue Arabe,4.0,Park,308
+26,Casablanca,Villa des Arts,4.4,Art Gallery,309
+27,Rabat,Kasbah of the Udayas,4.3,Kasbah,401
+28,Rabat,Mauresque Park,4.2,Park,402
+29,Rabat,Hassan Tower,4.4,Monument,403
+30,Rabat,Mohammed VI Museum of Modern and Contemporary Art,4.1,Museum,404
+31,Rabat,Andalusian Gardens,4.0,Gardens,405
+32,Rabat,Chellah,4.2,Archaeological Site,406
+33,Rabat,Rabat Archaeological Museum,4.3,Museum,407
+34,Rabat,Parliament Building,4.5,Government Building,408
+35,Rabat,King's Palace,4.4,Palace,409
+36,Tangier,Kasbah Museum,4.0,Museum,501
+37,Tangier,Medina of Tangier,4.1,Historic District,502
+38,Tangier,Grand Socco,4.3,Square,503
+39,Tangier,Cape Malabata,4.2,Scenic Point,504
+40,Tangier,Hercules Cave,4.5,Cave,505
+41,Tangier,Kasbah of Chefchaouen,4.4,Kasbah,506
+42,Tangier,Legation American Legation,4.0,Museum,507
+43,Tangier,St. Andrew's Church,4.1,Church,508
+44,Tangier,Tangier American Legation Museum,4.2,Museum,509
+45,Chefchaouen,Medina of Chefchaouen,4.5,Historic District,601
+46,Chefchaouen,Outa el Hammam Square,4.4,Square,602
+47,Chefchaouen,The Blue Door,4.3,Scenic Point,603
+48,Chefchaouen,Kasbah Museum,4.2,Museum,604
+49,Chefchaouen,Abderrahman Hassani Square,4.1,Square,605
+50,Chefchaouen,Ras El Ma,4.0,Scenic Point,606
+1,Rabat,Chellah,5,Archaeological Site,1
